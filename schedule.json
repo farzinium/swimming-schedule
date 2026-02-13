@@ -26,14 +26,14 @@
   {
     "date": "۱۴۰۴/۱۱/۲۹",
     "weekday": "چهارشنبه",
-    "slot1_unit": "واحد ۹",
-    "slot2_unit": "واحد ۱۰"
+    "slot1_unit": "واحد ۱۲",
+    "slot2_unit": "واحد ۹"
   },
   {
     "date": "۱۴۰۴/۱۱/۳۰",
     "weekday": "پنج‌شنبه",
-    "slot1_unit": "واحد ۱۱",
-    "slot2_unit": "واحد ۱۲"
+    "slot1_unit": "واحد ۱۰",
+    "slot2_unit": "واحد ۱۱"
   },
   {
     "date": "۱۴۰۴/۱۲/۰۲",
@@ -69,18 +69,18 @@
     "date": "۱۴۰۴/۱۲/۰۷",
     "weekday": "پنج‌شنبه",
     "slot1_unit": "واحد ۸",
-    "slot2_unit": "واحد ۹"
+    "slot2_unit": "واحد ۱۲"
   },
   {
     "date": "۱۴۰۴/۱۲/۰۹",
     "weekday": "شنبه",
-    "slot1_unit": "واحد ۱۰",
-    "slot2_unit": "واحد ۱۱"
+    "slot1_unit": "واحد ۹",
+    "slot2_unit": "واحد ۱۰"
   },
   {
     "date": "۱۴۰۴/۱۲/۱۰",
     "weekday": "یک‌شنبه",
-    "slot1_unit": "واحد ۱۲",
+    "slot1_unit": "واحد ۱۱",
     "slot2_unit": "واحد ۱۳"
   },
   {
@@ -116,14 +116,14 @@
   {
     "date": "۱۴۰۴/۱۲/۱۷",
     "weekday": "یک‌شنبه",
-    "slot1_unit": "واحد ۹",
-    "slot2_unit": "واحد ۱۰"
+    "slot1_unit": "واحد ۱۲",
+    "slot2_unit": "واحد ۹"
   },
   {
     "date": "۱۴۰۴/۱۲/۱۸",
     "weekday": "دوشنبه",
-    "slot1_unit": "واحد ۱۱",
-    "slot2_unit": "واحد ۱۲"
+    "slot1_unit": "واحد ۱۰",
+    "slot2_unit": "واحد ۱۱"
   },
   {
     "date": "۱۴۰۴/۱۲/۱۹",
@@ -159,18 +159,18 @@
     "date": "۱۴۰۴/۱۲/۲۵",
     "weekday": "دوشنبه",
     "slot1_unit": "واحد ۸",
-    "slot2_unit": "واحد ۹"
+    "slot2_unit": "واحد ۱۲"
   },
   {
     "date": "۱۴۰۴/۱۲/۲۶",
     "weekday": "سه‌شنبه",
-    "slot1_unit": "واحد ۱۰",
-    "slot2_unit": "واحد ۱۱"
+    "slot1_unit": "واحد ۹",
+    "slot2_unit": "واحد ۱۰"
   },
   {
     "date": "۱۴۰۴/۱۲/۲۷",
     "weekday": "چهارشنبه",
-    "slot1_unit": "واحد ۱۲",
+    "slot1_unit": "واحد ۱۱",
     "slot2_unit": "واحد ۱۳"
   },
   {
@@ -201,18 +201,18 @@
     "date": "۱۴۰۵/۰۱/۰۴",
     "weekday": "سه‌شنبه",
     "slot1_unit": "واحد ۸",
-    "slot2_unit": "واحد ۹"
+    "slot2_unit": "واحد ۱۲"
   },
   {
     "date": "۱۴۰۵/۰۱/۰۵",
     "weekday": "چهارشنبه",
-    "slot1_unit": "واحد ۱۰",
-    "slot2_unit": "واحد ۱۱"
+    "slot1_unit": "واحد ۹",
+    "slot2_unit": "واحد ۱۰"
   },
   {
     "date": "۱۴۰۵/۰۱/۰۶",
     "weekday": "پنج‌شنبه",
-    "slot1_unit": "واحد ۱۲",
+    "slot1_unit": "واحد ۱۱",
     "slot2_unit": "واحد ۱۳"
   },
   {
@@ -242,20 +242,20 @@
   {
     "date": "۱۴۰۵/۰۱/۱۲",
     "weekday": "چهارشنبه",
-    "slot1_unit": "واحد ۹",
+    "slot1_unit": "واحد ۱۲",
     "slot2_unit": "واحد ۸"
   },
   {
     "date": "۱۴۰۵/۰۱/۱۳",
     "weekday": "پنج‌شنبه",
-    "slot1_unit": "واحد ۱۱",
-    "slot2_unit": "واحد ۱۰"
+    "slot1_unit": "واحد ۱۰",
+    "slot2_unit": "واحد ۹"
   },
   {
     "date": "۱۴۰۵/۰۱/۱۵",
     "weekday": "شنبه",
     "slot1_unit": "واحد ۱۳",
-    "slot2_unit": "واحد ۱۲"
+    "slot2_unit": "واحد ۱۱"
   },
   {
     "date": "۱۴۰۵/۰۱/۱۶",
@@ -285,18 +285,18 @@
     "date": "۱۴۰۵/۰۱/۲۰",
     "weekday": "پنج‌شنبه",
     "slot1_unit": "واحد ۸",
-    "slot2_unit": "واحد ۹"
+    "slot2_unit": "واحد ۱۲"
   },
   {
     "date": "۱۴۰۵/۰۱/۲۲",
     "weekday": "شنبه",
-    "slot1_unit": "واحد ۱۰",
-    "slot2_unit": "واحد ۱۱"
+    "slot1_unit": "واحد ۹",
+    "slot2_unit": "واحد ۱۰"
   },
   {
     "date": "۱۴۰۵/۰۱/۲۳",
     "weekday": "یک‌شنبه",
-    "slot1_unit": "واحد ۱۲",
+    "slot1_unit": "واحد ۱۱",
     "slot2_unit": "واحد ۱۳"
   },
   {
@@ -326,20 +326,20 @@
   {
     "date": "۱۴۰۵/۰۱/۲۹",
     "weekday": "شنبه",
-    "slot1_unit": "واحد ۹",
+    "slot1_unit": "واحد ۱۲",
     "slot2_unit": "واحد ۸"
   },
   {
     "date": "۱۴۰۵/۰۱/۳۰",
     "weekday": "یک‌شنبه",
-    "slot1_unit": "واحد ۱۱",
-    "slot2_unit": "واحد ۱۰"
+    "slot1_unit": "واحد ۱۰",
+    "slot2_unit": "واحد ۹"
   },
   {
     "date": "۱۴۰۵/۰۱/۳۱",
     "weekday": "دوشنبه",
     "slot1_unit": "واحد ۱۳",
-    "slot2_unit": "واحد ۱۲"
+    "slot2_unit": "واحد ۱۱"
   },
   {
     "date": "۱۴۰۵/۰۲/۰۱",
@@ -369,18 +369,18 @@
     "date": "۱۴۰۵/۰۲/۰۶",
     "weekday": "یک‌شنبه",
     "slot1_unit": "واحد ۸",
-    "slot2_unit": "واحد ۹"
+    "slot2_unit": "واحد ۱۲"
   },
   {
     "date": "۱۴۰۵/۰۲/۰۷",
     "weekday": "دوشنبه",
-    "slot1_unit": "واحد ۱۰",
-    "slot2_unit": "واحد ۱۱"
+    "slot1_unit": "واحد ۹",
+    "slot2_unit": "واحد ۱۰"
   },
   {
     "date": "۱۴۰۵/۰۲/۰۸",
     "weekday": "سه‌شنبه",
-    "slot1_unit": "واحد ۱۲",
+    "slot1_unit": "واحد ۱۱",
     "slot2_unit": "واحد ۱۳"
   },
   {
@@ -410,20 +410,20 @@
   {
     "date": "۱۴۰۵/۰۲/۱۴",
     "weekday": "دوشنبه",
-    "slot1_unit": "واحد ۹",
+    "slot1_unit": "واحد ۱۲",
     "slot2_unit": "واحد ۸"
   },
   {
     "date": "۱۴۰۵/۰۲/۱۵",
     "weekday": "سه‌شنبه",
-    "slot1_unit": "واحد ۱۱",
-    "slot2_unit": "واحد ۱۰"
+    "slot1_unit": "واحد ۱۰",
+    "slot2_unit": "واحد ۹"
   },
   {
     "date": "۱۴۰۵/۰۲/۱۶",
     "weekday": "چهارشنبه",
     "slot1_unit": "واحد ۱۳",
-    "slot2_unit": "واحد ۱۲"
+    "slot2_unit": "واحد ۱۱"
   },
   {
     "date": "۱۴۰۵/۰۲/۱۷",
@@ -453,18 +453,18 @@
     "date": "۱۴۰۵/۰۲/۲۲",
     "weekday": "سه‌شنبه",
     "slot1_unit": "واحد ۸",
-    "slot2_unit": "واحد ۹"
+    "slot2_unit": "واحد ۱۲"
   },
   {
     "date": "۱۴۰۵/۰۲/۲۳",
     "weekday": "چهارشنبه",
-    "slot1_unit": "واحد ۱۰",
-    "slot2_unit": "واحد ۱۱"
+    "slot1_unit": "واحد ۹",
+    "slot2_unit": "واحد ۱۰"
   },
   {
     "date": "۱۴۰۵/۰۲/۲۴",
     "weekday": "پنج‌شنبه",
-    "slot1_unit": "واحد ۱۲",
+    "slot1_unit": "واحد ۱۱",
     "slot2_unit": "واحد ۱۳"
   }
 ]
