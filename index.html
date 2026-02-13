@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>برنامه استفاده ساکنین مجتمع ستایش از استخر</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 12px;
+            text-align: center; /* مرکز کردن متن */
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        table {
+            width: 95%;
+            border-collapse: collapse;
+            margin: 0 auto; /* مرکز کردن جدول */
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        td {
+            height: 30px; /* ارتفاع سلول‌ها */
+        }
+    </style>
+</head>
+<body>
+
+<h1>برنامه استفاده ساکنین مجتمع ستایش از استخر</h1>
+<table>
+    <thead>
+        <tr>
+            <th>ساعت ۲۲:۰۰ الی ۲۳:۳۰</th>
+            <th>ساعت ۲۰:۰۰ الی ۲۱:۳۰</th>
+            <th>روز</th>
+            <th>تاریخ</th>
+        </tr>
+    </thead>
+    <tbody id="schedule-body">
+        <!-- داده ها به اینجا اضافه می‌شوند با جاوا اسکریپت -->
+    </tbody>
+</table>
+
+<script>
+    // بارگذاری فایل JSON
+    fetch('schedule.json')
+        .then(response => response.json())
+        .then(data => {
+            const tableBody = document.getElementById('schedule-body');
+            data.forEach(entry => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                <td>${entry.slot2_unit || 'ندارد'}</td>
+                <td>${entry.slot1_unit || 'ندارد'}</td>
+                <td>${entry.weekday}</td>
+                <td>${entry.date}</td>
+                `;
+                tableBody.appendChild(row);
+            });
+        })
+        .catch(error => console.error('Error loading the JSON data:', error));
+</script>
+
+</body>
+</html>
